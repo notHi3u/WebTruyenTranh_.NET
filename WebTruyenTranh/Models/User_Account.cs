@@ -1,6 +1,6 @@
 ﻿namespace WebTruyenTranh.Models
 {
-    public class Usser_Account
+    public class User_Account
     {
         public int UserId { get; set; }
         public int PerId { get; set; }
