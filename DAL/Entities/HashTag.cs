@@ -1,4 +1,4 @@
-﻿namespace WebTruyenTranh.Models
+﻿namespace DAL.Entities
 {
     public class HashTag
     {
