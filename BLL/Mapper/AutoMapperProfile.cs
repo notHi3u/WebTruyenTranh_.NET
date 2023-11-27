@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLL.DTO.Mapper
+namespace BLL.Mapper
 {
-    public class AutoMapperProfile:Profile
+    public class AutoMapperProfile : Profile
     {
         //dùng để map dto-bll và bll-ui
         public AutoMapperProfile()
